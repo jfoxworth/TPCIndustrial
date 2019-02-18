@@ -53,7 +53,7 @@
 
 				<div class="container clearfix">
 
-					<div class="menu-title">Explore <span>CANVAS</span></div>
+					<div class="menu-title">TPC Industrial</div>
 
 					<nav class="one-page-menu no-offset">
 						<ul>

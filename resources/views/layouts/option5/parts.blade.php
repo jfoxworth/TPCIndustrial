@@ -10,7 +10,7 @@
 		</div>
 
 
-		<div style="width:600px; margin:0px 0px 0px 250px">
+		<div>
 
 			<div class="col_one_fourth">
 				

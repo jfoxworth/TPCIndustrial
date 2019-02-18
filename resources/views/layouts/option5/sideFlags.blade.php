@@ -32,7 +32,7 @@
 
 			<div class="heading-block" style="padding-top: 40px;">
 
-				<h2>You'll be Lovin' It.</h2>
+				<h2>Shipped Anywhere on Time</h2>
 				<span>Duis mollis, est non commodo luctus. Donec sed odio dui</span>
 
 			</div>
