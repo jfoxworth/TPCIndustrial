@@ -2,7 +2,7 @@
 <html dir="ltr" lang="en-US">
 
 
-@include('layouts.option1.head')
+@include('layouts.option5.head')
 
 
 <body class="stretched">
@@ -24,8 +24,8 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-						<a href="/" class="standard-logo" data-dark-logo="/images/TPC.jpeg"><img src="/images/TPC.jpeg" alt="TPC Industrial"></a>
-						<a href="/" class="retina-logo" data-dark-logo="/images/TPC.jpeg"><img src="/images/TPC.jpeg" alt="TPC Industrial"></a>
+						<a href="/" class="standard-logo" data-dark-logo="/images/tpc.jpeg"><img src="/images/tpc.jpeg" alt="TPC Industrial"></a>
+						<a href="/" class="retina-logo" data-dark-logo="/images/tpc.jpeg"><img src="/images/tpc.jpeg" alt="TPC Industrial"></a>
 					</div><!-- #logo end -->
 
 
