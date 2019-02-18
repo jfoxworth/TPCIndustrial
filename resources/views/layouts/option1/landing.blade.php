@@ -92,7 +92,7 @@
 
 				@include('layouts.option1.parts')
 
-				@include('layouts.option1.clientlist')
+				@include('layouts.option1.clientList')
 
 				@include('layouts.option1.testimony')
 

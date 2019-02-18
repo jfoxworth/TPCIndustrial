@@ -74,7 +74,7 @@
 
 				@include('layouts.option2.parts')
 
-				@include('layouts.option2.clientlist')
+				@include('layouts.option2.clientList')
 
 
 			</div>
