@@ -2,8 +2,8 @@
 <!-- Logo
 ============================================= -->
 <div id="logo">
-	<a href="index.html" class="standard-logo" data-dark-logo="/images/TPCDark.png"><img src="/images/TPC.jpeg" alt="TPC Logo"></a>
-	<a href="index.html" class="retina-logo" data-dark-logo="/images/TPCDark.png"><img src="/images/TPC.jpeg" alt="TPC Logo"></a>
+	<a href="/" class="standard-logo" data-dark-logo="/images/tpc.jpeg"><img src="/images/tpc.jpeg" alt="TPC Logo"></a>
+	<a href="/" class="retina-logo" data-dark-logo="/images/tpc.jpeg"><img src="/images/tpc.jpeg" alt="TPC Logo"></a>
 </div><!-- #logo end -->
 
 <!-- Primary Navigation
