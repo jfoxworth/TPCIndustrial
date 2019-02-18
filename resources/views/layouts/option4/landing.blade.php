@@ -67,7 +67,7 @@
 
 				@include('layouts.option4.iconlist')
 
-				@include('layouts.option4.clientlist')
+				@include('layouts.option4.clientList')
 
 
 			</div>
