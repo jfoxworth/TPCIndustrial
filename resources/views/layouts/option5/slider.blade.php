@@ -13,25 +13,46 @@
 
 
 				<!-- SLIDE  -->
-				<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/welder.jpg" data-delay="12000"  data-saveperformance="off"  data-title="Full Featured Menu">
+				<li class="dark" data-transition="slideleft" data-slotamount="1" data-masterspeed="1500" data-thumb="images/TPCBuildingLogoCenter.png" data-delay="12000"  data-saveperformance="off"  data-title="Full Featured Menu">
 					<!-- MAIN IMAGE -->
-					<img src="images/welder.jpg"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
+					<img src="images/TPCBuildingLogoCenter.png"  alt="kenburns3"  data-bgposition="left top" data-kenburns="on" data-duration="12000" data-ease="Linear.easeNone" data-scalestart="130" data-scaleend="100" data-bgpositionend="right bottom">
 					<!-- LAYERS -->
 
 					<!-- LAYER NR. 1 -->
 					<div class="tp-caption ltl tp-resizeme revo-slider-caps-text uppercase"
-					data-x="440"
-					data-y="215"
-					data-transform_in="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
-					data-speed="800"
-					data-start="1000"
-					data-easing="easeOutQuad"
-					data-splitin="none"
-					data-splitout="none"
-					data-elementdelay="0.01"
-					data-endelementdelay="0.1"
-					data-endspeed="1000"
-					data-endeasing="Power4.easeIn" style="z-index: 3;">Service is Our Priority</div>
+						data-x="440"
+						data-y="215"
+						data-transform_in="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+						data-speed="800"
+						data-start="1000"
+						data-easing="easeOutQuad"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="1000"
+						data-endeasing="Power4.easeIn" style="z-index: 3;">Service is Our Priority
+					</div>
+
+					<div class="tp-caption"
+						data-x="440"
+						data-y="215"
+						data-transform_in="x:0;y:150;z:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;s:800;e:Power4.easeOutQuad;"
+						data-speed="800"
+						data-start="1000"
+						data-easing="easeOutQuad"
+						data-splitin="none"
+						data-splitout="none"
+						data-elementdelay="0.01"
+						data-endelementdelay="0.1"
+						data-endspeed="1000"
+						data-endeasing="Power4.easeIn" style="z-index: 3;">
+						
+						<div class="leaveImage">
+							<a href="/"><img src="images/TPC.png" width="400px !important" alt="TPC Industrial"></a>
+						</div>
+					
+					</div>
 
 					<div class="tp-caption ltl tp-resizeme revo-slider-emphasis-text nopadding noborder"
 					data-x="350"

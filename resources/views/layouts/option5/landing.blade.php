@@ -45,7 +45,7 @@
 
 				@include('layouts.option5.about')
 
-				@include('layouts.option5.splitSlogan')
+				@include('layouts.option5.popIcons')
 
 				@include('layouts.option5.iconlist')
 
@@ -54,6 +54,8 @@
 				@include('layouts.option5.parts')
 
 				@include('layouts.option5.clientList')
+
+				@include('layouts.option5.testimony')
 
 
 			</div>

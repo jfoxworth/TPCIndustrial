@@ -9,8 +9,8 @@
 			</a>
 			<div class="portfolio-overlay">
 				<div class="portfolio-desc">
-					<h3><a href="#">Open Imagination</a></h3>
-					<span><a href="#">Media</a>, <a href="#">Icons</a></span>
+					<h3><a href="#">TPC Industrial</a></h3>
+					<span><a href="#">A leader in the PVF Industry</a></span>
 				</div>
 			</div>
 		</div>

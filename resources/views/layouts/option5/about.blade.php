@@ -2,6 +2,13 @@
 
 	<div class="container clearfix">
 
+
+		<div class="heading-block center">
+			<h2>TPC Industrial</h2>
+			<span>A Leader in the PVF Industry</span>
+		</div>
+
+
 		<div class="col_one_third nobottommargin">
 			<div class="feature-box media-box">
 				<div class="fbox-media">
@@ -43,3 +50,4 @@
 	</div>
 
 </section>
+
