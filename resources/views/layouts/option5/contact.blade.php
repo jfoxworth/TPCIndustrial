@@ -13,7 +13,7 @@
 
 		<!-- Header
 		============================================= -->
-		<header id="header" class="no-sticky transparent-header full-header page-section dark">
+		<header id="header">
 
 			<div id="header-wrap">
 
@@ -21,22 +21,15 @@
 
 					<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
 
-					<!-- Logo
-					============================================= -->
-					<div id="logo">
-						<a href="/" class="standard-logo" data-dark-logo="/images/tpc.jpeg"><img src="/images/tpc.jpeg" alt="TPC Industrial"></a>
-						<a href="/" class="retina-logo" data-dark-logo="/images/tpc.jpeg"><img src="/images/tpc.jpeg" alt="TPC Industrial"></a>
-					</div><!-- #logo end -->
-
-
-					@include('layouts.option1.navbarBlack')
-
+					@include('layouts.option5.navbar')
 
 				</div>
 
 			</div>
 
 		</header><!-- #header end -->
+
+		<div class="clear"></div>
 
 
 
@@ -45,12 +38,12 @@
 
 		<div class="content-wrap nopadding">
 
-			@include('layouts.option1.contactContent')
+			@include('layouts.option5.contactContent')
 
 		</div>
 
 
-		@include('layouts.option1.footer')
+		@include('layouts.option5.footer')
 
 	</div><!-- #wrapper end -->
 

@@ -35,18 +35,18 @@
 
 		<!-- Content
 		============================================= -->
+		<section id="content">
+
+			<div class="content-wrap nopadding">
+
+				@include('layouts.option5.eventSlides')
+
+			</div>
+
+		</section>
 
 
-
-
-		<div class="content-wrap nopadding">
-
-			@include('layouts.option1.staffList')
-
-		</div>
-
-
-		@include('layouts.option1.footer')
+		@include('layouts.option5.footer')
 
 	</div><!-- #wrapper end -->
 
@@ -63,8 +63,6 @@
 	============================================= -->
 	<script src="/js/functions.js"></script>
 
-	<script src="https://maps.google.com/maps/api/js?key=AIzaSyDMxJ92oBkSnVNHFX3R8XhtYQPEgk1_IiI"></script>
-	<script src="/js/jquery.gmap.js"></script>
 
 
 </body>

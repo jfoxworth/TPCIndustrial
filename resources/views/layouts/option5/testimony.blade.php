@@ -10,7 +10,7 @@
 			<li style="height: 147px;">
 				<div class="testimonial">
 					<div class="testi-image">
-						<a href="#"><img src="images/houstonglover.jpeg" alt="Houston Glover"></a>
+						<a href="#"><img src="/images/houstonglover.jpeg" alt="Houston Glover"></a>
 					</div>
 					<div class="testi-content">
 						<p>We carry a wide selection of parts and assemblies and can usually ship the same day?</p>
@@ -25,7 +25,7 @@
 			<li style="height: 147px;">
 				<div class="testimonial">
 					<div class="testi-image">
-						<a href="#"><img src="images/archielopez.jpeg" alt="Archie Lopez"></a>
+						<a href="#"><img src="/images/archielopez.jpeg" alt="Archie Lopez"></a>
 					</div>
 					<div class="testi-content">
 						<p>Call us any time. We ship parts across town or across the country.</p>

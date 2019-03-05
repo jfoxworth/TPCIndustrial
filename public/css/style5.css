@@ -251,11 +251,10 @@ small { font-family: 'Lato', sans-serif; }
 -----------------------------------------------------------------*/
 .partsBlock {
 	cursor:pointer;
-	border-bottom:2px solid #FFF;
+	text-align:center;
 }
 
 .partsBlock:hover {
-	border-bottom:2px solid #000;
 }
 
 .partsBlock a { color:#000; }
@@ -1088,11 +1087,11 @@ body.stretched #header.full-header .container {
 
 .logoLine {
 	color:#000000;
-	font-size: 55px;
-	letter-spacing: 10px;
+	font-size: 64px !important;
+	letter-spacing: 10px !important;
 	padding:0px 0px 20px 0px;
 	margin:0px 0px 20px 0px;
-	font-weight:bold;
+	font-weight:bold !important;
 	padding-left:20px;
 	-webkit-text-stroke-width:1px;
 	-webkit-text-stroke-color:#12ee09;
@@ -8040,11 +8039,16 @@ body:not(.device-touch) .button.button-full strong {
 	display: block;
 	width: 100%;
 	height: auto;
+	border-radius:10px;
 }
 
 .feature-box.media-box .fbox-media iframe { display: block; }
 
-.feature-box.media-box p { margin-top: 17px; }
+.feature-box.media-box p { 
+	margin-top: 17px; 
+	border-top:2px solid #12ee09;
+	padding-top:10px;
+}
 
 .feature-box.media-box.fbox-bg .fbox-media { margin: 0; }
 
@@ -9043,12 +9047,16 @@ body:not(.device-touch) .social-icon i {
 	position: relative;
 	line-height: 24px;
 	margin: 0;
-	font-size: 14px;
+	font-size: 24px;
 	font-weight: bold;
 	color: #444;
 	cursor: pointer;
 	border-top: 1px dotted #DDD;
 	padding: 10px 0 10px 20px;
+}
+
+.acctitle:hover {
+	cursor:pointer;
 }
 
 .acctitlec { cursor: auto; }

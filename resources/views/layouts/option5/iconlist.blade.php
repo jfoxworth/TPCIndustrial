@@ -1,4 +1,6 @@
-<section id="section-anywhere" class="page-section section nobg nomargin bottompadding-lg">
+<section id="section-anywhere" 
+		 class="page-section section nobg nomargin bottompadding-lg"
+		 style="background-color: #DDD !important;">
 
 	<div class="container clearfix">
 

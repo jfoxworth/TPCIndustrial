@@ -15,8 +15,8 @@
 					<img src="/images/square1.jpg" alt="Why choose Us?" width="200px">
 				</div>
 				<div class="fbox-desc">
-					<h3>Why choose Us.<span class="subtitle">Because we are Reliable.</span></h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi rem, facilis nobis voluptatum est voluptatem accusamus molestiae eaque perspiciatis mollitia.</p>
+					<h3>Who We Are.<span class="subtitle">A Leader in the PVF Industry.</span></h3>
+					<p>TPC INDUSTRIAL, LLC is a major stocking distributor of pipe, valve, fittings, flanges, bolts, gaskets, hose, hose assemblies, CAM and groove couplings and accessories.</p>
 				</div>
 			</div>
 		</div>
@@ -27,8 +27,8 @@
 					<img src="/images/square2.jpg" alt="Why choose Us?" width="200px">
 				</div>
 				<div class="fbox-desc">
-					<h3>Our Mission.<span class="subtitle">To Redefine your Brand.</span></h3>
-					<p>Quos, non, esse eligendi ab accusantium voluptatem. Maxime eligendi beatae, atque tempora ullam. Vitae delectus quia, consequuntur rerum molestias quo.</p>
+					<h3>What We Do.<span class="subtitle">Service is our Priority.</span></h3>
+					<p>When our customers need it, we make sure they have it, on time every time, day or night 24/7. We make it happen when others can't. "Service is our Priority".</p>
 				</div>
 			</div>
 		</div>
@@ -39,8 +39,8 @@
 					<img src="/images/square3.jpg" alt="Why choose Us?" width="200px">
 				</div>
 				<div class="fbox-desc">
-					<h3>What we Do.<span class="subtitle">Make our Customers Happy.</span></h3>
-					<p>Porro repellat vero sapiente amet vitae quibusdam necessitatibus consectetur, labore totam. Accusamus perspiciatis asperiores labore esse ab accusantium ea modi ut.</p>
+					<h3>Where We Are.<span class="subtitle">Central Houston Location.</span></h3>
+					<p>Our location in south Houston lets us deliver products to our customers rapidly and effectively. Our interstate delivery fleet can also reach customers anywhere.</p>
 				</div>
 			</div>
 		</div>

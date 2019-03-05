@@ -47,11 +47,9 @@
 
 				@include('layouts.option5.popIcons')
 
-				@include('layouts.option5.iconlist')
-
-				@include('layouts.option5.sideFlags')
-
 				@include('layouts.option5.parts')
+
+				@include('layouts.option5.iconlist')
 
 				@include('layouts.option5.clientList')
 

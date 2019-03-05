@@ -1,3 +1,5 @@
+
+
 <!-- Portfolio Items
 ============================================= -->
 <section id="section-parts" class="page-section section nobg nomargin">
@@ -16,12 +18,12 @@
 				
 				<div class="partsBlock">
 			
-					<a href="/option1/Products">
+					<a href="/option5/Products">
 
 						<div class="partsImage">
-							<img src="/images/parts/pipes.jpg" width="150px">
+							<img src="/images/pipeicons/pipes.png" width="75px">
+							<div class="partsText">Pipes</div>
 						</div>	
-						<div class="partsText">Pipes</div>
 
 					</a>
 
@@ -34,12 +36,12 @@
 				
 				<div class="partsBlock">
 
-					<a href="/option1/Products">
+					<a href="/option5/Products">
 			
 						<div class="partsImage">
-							<img src="/images/parts/valves.jpg" width="150px">
+							<img src="/images/pipeicons/valves.png" width="75px">
+							<div class="partsText">Valves</div>
 						</div>	
-						<div class="partsText">Valves</div>
 
 					</a>
 
@@ -51,12 +53,12 @@
 				
 				<div class="partsBlock">
 			
-					<a href="/option1/Products">
+					<a href="/option5/Products">
 
 						<div class="partsImage">
-							<img src="/images/parts/fittings.jpg" width="150px">
+							<img src="/images/pipeicons/fittings.png" width="75px">
+							<div class="partsText">Fittings</div>
 						</div>	
-						<div class="partsText">Fittings</div>
 
 					</a>
 
@@ -72,12 +74,12 @@
 				
 				<div class="partsBlock">
 
-					<a href="/option1/Products">
+					<a href="/option5/Products">
 			
 						<div class="partsImage">
-							<img src="/images/parts/bolts.jpg" width="150px">
-						</div>	
-						<div class="partsText">Bolts</div>
+							<img src="/images/pipeicons/bolts.png" width="75px">
+							<div class="partsText">Bolts</div>
+						</div>
 
 					</a>
 
@@ -90,12 +92,12 @@
 				
 				<div class="partsBlock">
 			
-					<a href="/option1/Products">
+					<a href="/option5/Products">
 
 						<div class="partsImage">
-							<img src="/images/parts/gaskets.jpg" width="150px">
+							<img src="/images/pipeicons/gaskets.png" width="75px">
+							<div class="partsText">Gaskets</div>
 						</div>	
-						<div class="partsText">Gaskets</div>
 
 					</a>
 
@@ -107,12 +109,12 @@
 				
 				<div class="partsBlock">
 			
-					<a href="/option1/Products">
+					<a href="/option5/Products">
 
 						<div class="partsImage">
-							<img src="/images/parts/couplings.jpg" width="150px">
+							<img src="/images/pipeicons/couplings.png" width="75px">
+							<div class="partsText">Couplings</div>
 						</div>	
-						<div class="partsText">Couplings</div>
 
 					</a>
 
@@ -128,12 +130,12 @@
 				
 				<div class="partsBlock">
 			
-					<a href="/option1/Products">
+					<a href="/option5/Products">
 
 						<div class="partsImage">
-							<img src="/images/parts/hoses.jpg" width="150px">
+							<img src="/images/pipeicons/hoses.png" width="75px">
+							<div class="partsText">Hoses</div>
 						</div>	
-						<div class="partsText">Hoses</div>
 
 					</a>
 
@@ -146,12 +148,12 @@
 				
 				<div class="partsBlock">
 			
-					<a href="/option1/Products">
+					<a href="/option5/Products">
 
 						<div class="partsImage">
-							<img src="/images/parts/assemblies.jpg" width="150px">
+							<img src="/images/pipeicons/assemblies.png" width="75px">
+							<div class="partsText">Assemblies</div>
 						</div>	
-						<div class="partsText">Assemblies</div>
 
 					</a>
 
@@ -167,3 +169,4 @@
 	</div>
 
 </section>
+

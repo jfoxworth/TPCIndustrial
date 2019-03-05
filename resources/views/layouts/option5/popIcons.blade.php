@@ -1,6 +1,9 @@
 <section id="section-popIcons" class="page-section">
 
-	<div class="section dark parallax nobottommargin" style="padding: 80px 0;background-image: url('images/parallax/1.jpg');" data-bottom-top="background-position:0px 100px;" data-top-bottom="background-position:0px -300px;">
+	<div class="section dark parallax nobottommargin" 
+		 style="padding: 80px 0;background-image: url('/images/sawgrass.jpg');" 
+		 data-bottom-top="background-position:0px 100px;" 
+		 data-top-bottom="background-position:0px -300px;">
 
 		<div class="container clearfix">
 
@@ -11,9 +14,9 @@
 			</div>
 
 			<div class="col_one_fourth nobottommargin center" data-animate="bounceIn" data-delay="200">
-				<i class="i-plain i-xlarge divcenter nobottommargin icon-trophy"></i>
-				<div class="counter counter-lined"><span data-from="3000" data-to="15360" data-refresh-interval="50" data-speed="2500"></span>+</div>
-				<h5>Miles driven for delivery</h5>
+				<i class="i-plain i-xlarge divcenter nobottommargin icon-users"></i>
+				<div class="counter counter-lined"><span data-from="0" data-to="15" data-refresh-interval="1" data-speed="1000"></span>+</div>
+				<h5>Employees</h5>
 			</div>
 
 			<div class="col_one_fourth nobottommargin center" data-animate="bounceIn" data-delay="400">

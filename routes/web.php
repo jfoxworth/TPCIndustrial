@@ -142,3 +142,8 @@ Route::get('/option5/Contact', function () {
     return view('layouts.option5.contact');
 });
 
+Route::get('/option5/Events', function () {
+    return view('layouts.option5.events');
+});
+
+
