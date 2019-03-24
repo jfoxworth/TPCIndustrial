@@ -9117,6 +9117,8 @@ body:not(.device-touch) .social-icon i {
 	border-color: #CCC;
 	line-height: 44px;
 	padding: 0 15px 0 36px;
+	font-size:18px;
+	letter-spacing: 1px;
 }
 
 .accordion.accordion-border .acctitle i {
@@ -9125,6 +9127,10 @@ body:not(.device-touch) .social-icon i {
 }
 
 .accordion.accordion-border .acc_content { padding: 0 15px 15px 36px; }
+
+.accImage {
+	float:right;
+}
 
 
 /* Accordion - Large

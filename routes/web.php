@@ -12,8 +12,26 @@
 */
 
 Route::get('/', function () {
-    return view('layouts.welcome');
+    return view('layouts.landing');
 });
+
+Route::get('/Staff', function () {
+    return view('layouts.Staff.staff');
+});
+
+Route::get('/Products', function () {
+    return view('layouts.Products.products');
+});
+
+Route::get('/Contact', function () {
+    return view('layouts.Contact.contact');
+});
+
+Route::get('/Events', function () {
+    return view('layouts.Events.events');
+});
+
+
 
 
 
