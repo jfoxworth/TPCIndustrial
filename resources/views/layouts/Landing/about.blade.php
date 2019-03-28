@@ -12,7 +12,7 @@
 		<div class="col_one_third nobottommargin">
 			<div class="feature-box media-box">
 				<div class="fbox-media">
-					<img src="/images/square1.jpg" alt="Why choose Us?" width="200px">
+					<img src="/images/square0.jpg" alt="Why choose Us?" width="200px">
 				</div>
 				<div class="fbox-desc">
 					<h3>Who We Are.<span class="subtitle">A Leader in the PVF Industry.</span></h3>
