@@ -272,6 +272,13 @@ small { font-family: 'Lato', sans-serif; }
 }
 
 
+.partImage {
+	margin:0px 0px 30px 0px;
+}
+
+.partImage > img {
+	border-radius:10px;
+}
 
 
 /* ----------------------------------------------------------------

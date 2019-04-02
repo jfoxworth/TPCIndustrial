@@ -122,10 +122,10 @@
 					<div class="overlay">
 						<div class="text-overlay">
 							<div class="text-overlay-title">
-								<h3>Shawn Stefani</h3>
+								<h3>Jordan Spieth</h3>
 							</div>
 							<div class="text-overlay-meta">
-								<span>Pro Golfer - Mont Belvieu, Texas Native</span>
+								<span>Pro Golfer</span>
 							</div>
 						</div>
 					</div>
@@ -138,10 +138,10 @@
 					<div class="overlay">
 						<div class="text-overlay">
 							<div class="text-overlay-title">
-								<h3>Jordan Spieth</h3>
+								<h3>Shawn Stefani</h3>
 							</div>
 							<div class="text-overlay-meta">
-								<span>Pro Golfer</span>
+								<span>Pro Golfer - Mont Belvieu, Texas Native</span>
 							</div>
 						</div>
 					</div>

@@ -23,6 +23,11 @@
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
 
+							<div class="partImage">
+								<img src="/images/stock/stock1_small.jpg" width="750px">
+							</div>
+
+
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
 								<div class="col_half nobottommargin">
@@ -58,6 +63,12 @@
 					<div class="acc_content clearfix" style="display: none;">
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
+
+
+							<div class="partImage">
+								<img src="/images/stock/stock2_small.jpg" width="750px">
+							</div>
+
 
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 	
@@ -96,6 +107,10 @@
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
 
+							<div class="partImage">
+								<img src="/images/stock/stock3_small.jpg" width="750px">
+							</div>
+
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
 								<div class="col_half nobottommargin">
@@ -132,6 +147,10 @@
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
 
+							<div class="partImage">
+								<img src="/images/stock/stock4_small.jpg" width="750px">
+							</div>
+
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
 								<div class="col_half nobottommargin">
@@ -158,6 +177,10 @@
 	
 						<div class="topmargin-sm bottommargin-sm leftmargin">
 
+							<div class="partImage">
+								<img src="/images/stock/stock5_small.jpg" width="750px">
+							</div>
+
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
 								<div class="col_half nobottommargin">
@@ -178,13 +201,17 @@
 
 
 					<div class="acctitle acctitlec">STAINLESS STEEL FLANGES
-						<div class="accImage"><img src="/images/pipeicons/couplings.png" width="30px"></div>
+						<div class="accImage"><img src="/images/pipeicons/wrench2.png" width="30px"></div>
 					</div>
 
 
 					<div class="acc_content clearfix" style="">
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
+
+							<div class="partImage">
+								<img src="/images/stock/stock6_small.jpg" width="750px">
+							</div>
 
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
@@ -204,13 +231,17 @@
 					</div>
 
 					<div class="acctitle acctitlec">STAINLESS STEEL FITTINGS
-						<div class="accImage"><img src="/images/pipeicons/hoses.png" width="30px"></div>
+						<div class="accImage"><img src="/images/pipeicons/wrench.png" width="30px"></div>
 					</div>
 
 
 					<div class="acc_content clearfix" style="">
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
+
+							<div class="partImage">
+								<img src="/images/stock/stock7_small.jpg" width="750px">
+							</div>
 
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
@@ -231,13 +262,17 @@
 
 
 					<div class="acctitle acctitlec">PIPE, FITTINGS, & FLANGES
-						<div class="accImage"><img src="/images/pipeicons/hoses.png" width="30px"></div>
+						<div class="accImage"><img src="/images/pipeicons/valve2.png" width="30px"></div>
 					</div>
 
 
 					<div class="acc_content clearfix" style="">
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
+
+							<div class="partImage">
+								<img src="/images/stock/stock8_small.jpg" width="750px">
+							</div>
 
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
@@ -259,13 +294,17 @@
 
 
 					<div class="acctitle acctitlec">VALVES
-						<div class="accImage"><img src="/images/pipeicons/hoses.png" width="30px"></div>
+						<div class="accImage"><img src="/images/pipeicons/valves.png" width="30px"></div>
 					</div>
 
 
 					<div class="acc_content clearfix" style="">
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
+
+							<div class="partImage">
+								<img src="/images/stock/stock9_small.jpg" width="750px">
+							</div>
 
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
@@ -294,13 +333,17 @@
 
 
 					<div class="acctitle acctitlec">CAM AND GROOVE COUPLINGS AND ACCESSORIES
-						<div class="accImage"><img src="/images/pipeicons/hoses.png" width="30px"></div>
+						<div class="accImage"><img src="/images/pipeicons/couplings.png" width="30px"></div>
 					</div>
 
 
 					<div class="acc_content clearfix" style="">
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
+
+							<div class="partImage">
+								<img src="/images/stock/stock10_small.jpg" width="750px">
+							</div>
 
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
@@ -336,6 +379,10 @@
 					<div class="acc_content clearfix" style="">
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
+
+							<div class="partImage">
+								<img src="/images/stock/stock11_small.jpg" width="750px">
+							</div>
 
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
@@ -376,13 +423,17 @@
 
 
 					<div class="acctitle acctitlec">ADDITIONAL SERVICES
-						<div class="accImage"><img src="/images/pipeicons/hoses.png" width="30px"></div>
+						<div class="accImage"><img src="/images/pipeicons/assemblies.png" width="30px"></div>
 					</div>
 
 
 					<div class="acc_content clearfix" style="">
 
 						<div class="topmargin-sm bottommargin-sm leftmargin">
+
+							<div class="partImage">
+								<img src="/images/stock/stock12_small.jpg" width="750px">
+							</div>
 
 							<div style="background-color:#eee; float:left; width:750px; padding-top:20px; border:1px solid #000; border-radius:5px;">
 
